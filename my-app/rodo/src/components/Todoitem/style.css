@@ -1,0 +1,10 @@
+.todoitem{
+    width: 80%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    border-radius: 1rem;
+    
+}
